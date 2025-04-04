@@ -1,0 +1,14 @@
+F:\dot_net\dot_net_project\dot_net_project\bin\Debug\net8.0\dot_net_project.exe
+F:\dot_net\dot_net_project\dot_net_project\bin\Debug\net8.0\dot_net_project.deps.json
+F:\dot_net\dot_net_project\dot_net_project\bin\Debug\net8.0\dot_net_project.runtimeconfig.json
+F:\dot_net\dot_net_project\dot_net_project\bin\Debug\net8.0\dot_net_project.dll
+F:\dot_net\dot_net_project\dot_net_project\bin\Debug\net8.0\dot_net_project.pdb
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.AssemblyInfoInputs.cache
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.AssemblyInfo.cs
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.csproj.CoreCompileInputs.cache
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.dll
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\refint\dot_net_project.dll
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.pdb
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\dot_net_project.genruntimeconfig.cache
+F:\dot_net\dot_net_project\dot_net_project\obj\Debug\net8.0\ref\dot_net_project.dll

@@ -1,0 +1,16 @@
+F:\dot_net\interestCalcaulator\interestCalcaulator\bin\Debug\net8.0-windows\interestCalcaulator.exe
+F:\dot_net\interestCalcaulator\interestCalcaulator\bin\Debug\net8.0-windows\interestCalcaulator.deps.json
+F:\dot_net\interestCalcaulator\interestCalcaulator\bin\Debug\net8.0-windows\interestCalcaulator.runtimeconfig.json
+F:\dot_net\interestCalcaulator\interestCalcaulator\bin\Debug\net8.0-windows\interestCalcaulator.dll
+F:\dot_net\interestCalcaulator\interestCalcaulator\bin\Debug\net8.0-windows\interestCalcaulator.pdb
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.Form1.resources
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.csproj.GenerateResource.cache
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.AssemblyInfoInputs.cache
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.AssemblyInfo.cs
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.csproj.CoreCompileInputs.cache
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.dll
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\refint\interestCalcaulator.dll
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.pdb
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\interestCalcaulator.genruntimeconfig.cache
+F:\dot_net\interestCalcaulator\interestCalcaulator\obj\Debug\net8.0-windows\ref\interestCalcaulator.dll

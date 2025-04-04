@@ -1,0 +1,4 @@
+F:\dot_net\constructorExample\constructorExample\obj\Debug\net8.0\constructorExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot_net\constructorExample\constructorExample\obj\Debug\net8.0\constructorExample.AssemblyInfoInputs.cache
+F:\dot_net\constructorExample\constructorExample\obj\Debug\net8.0\constructorExample.AssemblyInfo.cs
+F:\dot_net\constructorExample\constructorExample\obj\Debug\net8.0\constructorExample.csproj.CoreCompileInputs.cache

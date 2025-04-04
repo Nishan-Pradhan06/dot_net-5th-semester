@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dot_net\\interestCalcaulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45E62DA-1BA6-41AA-B319-F2C739A9AAD3}|interestCalcaulator\\interestCalcaulator.csproj|f:\\dot_net\\interestcalcaulator\\interestcalcaulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45E62DA-1BA6-41AA-B319-F2C739A9AAD3}|interestCalcaulator\\interestCalcaulator.csproj|solutionrelative:interestcalcaulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45E62DA-1BA6-41AA-B319-F2C739A9AAD3}|interestCalcaulator\\interestCalcaulator.csproj|f:\\dot_net\\interestcalcaulator\\interestcalcaulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A45E62DA-1BA6-41AA-B319-F2C739A9AAD3}|interestCalcaulator\\interestCalcaulator.csproj|solutionrelative:interestcalcaulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\dot_net\\interestCalcaulator\\interestCalcaulator\\Form1.cs",
+              "RelativeDocumentMoniker": "interestCalcaulator\\Form1.cs",
+              "ToolTip": "F:\\dot_net\\interestCalcaulator\\interestCalcaulator\\Form1.cs",
+              "RelativeToolTip": "interestCalcaulator\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:27:14.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\dot_net\\interestCalcaulator\\interestCalcaulator\\Form1.cs",
+              "RelativeDocumentMoniker": "interestCalcaulator\\Form1.cs",
+              "ToolTip": "F:\\dot_net\\interestCalcaulator\\interestCalcaulator\\Form1.cs [Design]",
+              "RelativeToolTip": "interestCalcaulator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:26:12.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
