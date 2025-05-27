@@ -1,0 +1,31 @@
+﻿@model List<Student>
+
+
+<!doctype html>
+<html>
+<body>
+	<h2>List of Students</h2>
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Id</th>
+				<th>Name</th>
+				<th>Address</th>
+				<th>JoinDate</th>
+			</tr>
+		</thead>
+		<tbody>
+			@for (int i = 0; i < Model.Count; i++)
+
+			{
+				<tr>
+					<td>@Model[i].Id</td>
+					<td>@Model[i].Name</td>
+					<td>@Model[i].Address</td>
+					<td>@Model[i].JoinDate</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</body>
+</html>

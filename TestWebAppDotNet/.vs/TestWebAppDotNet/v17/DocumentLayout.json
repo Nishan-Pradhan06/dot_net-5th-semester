@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|c:\\users\\nisha\\source\\repos\\testwebappdotnet\\testwebappdotnet\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|solutionrelative:testwebappdotnet\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|c:\\users\\nisha\\source\\repos\\testwebappdotnet\\testwebappdotnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|solutionrelative:testwebappdotnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|c:\\users\\nisha\\source\\repos\\testwebappdotnet\\testwebappdotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|solutionrelative:testwebappdotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|c:\\users\\nisha\\source\\repos\\testwebappdotnet\\testwebappdotnet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|solutionrelative:testwebappdotnet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|c:\\users\\nisha\\source\\repos\\testwebappdotnet\\testwebappdotnet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A63607-79CE-47D7-BC5E-1D5EAEF18709}|TestWebAppDotNet\\TestWebAppDotNet.csproj|solutionrelative:testwebappdotnet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestWebAppDotNet\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "TestWebAppDotNet\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:57:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TestWebAppDotNet\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TestWebAppDotNet\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:56:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TestWebAppDotNet\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TestWebAppDotNet\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:47:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestWebAppDotNet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestWebAppDotNet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:43:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TestWebAppDotNet\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nisha\\source\\repos\\TestWebAppDotNet\\TestWebAppDotNet\\Models\\Student.cs",
+              "RelativeToolTip": "TestWebAppDotNet\\Models\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:35:51.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dot_net\\interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F82D35B-DBAA-4010-8438-402F9A6362D1}|interface\\interface.csproj|f:\\dot_net\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F82D35B-DBAA-4010-8438-402F9A6362D1}|interface\\interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\dot_net\\interface\\interface\\Program.cs",
+              "RelativeDocumentMoniker": "interface\\Program.cs",
+              "ToolTip": "F:\\dot_net\\interface\\interface\\Program.cs*",
+              "RelativeToolTip": "interface\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:18:24.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

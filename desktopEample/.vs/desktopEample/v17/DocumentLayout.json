@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dot_net\\desktopEample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|f:\\dot_net\\desktopeample\\desktopeample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|solutionrelative:desktopeample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|f:\\dot_net\\desktopeample\\desktopeample\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|solutionrelative:desktopeample\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|F:\\dot_net\\desktopEample\\desktopeample\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|solutionrelative:desktopeample\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|f:\\dot_net\\desktopeample\\desktopeample\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|solutionrelative:desktopeample\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|F:\\dot_net\\desktopEample\\desktopeample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E58AB197-7B41-4128-BD7F-628E9BBABAF7}|desktopEample\\desktopEample.csproj|solutionrelative:desktopeample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "F:\\dot_net\\desktopEample\\desktopEample\\UserForm.cs",
+              "RelativeDocumentMoniker": "desktopEample\\UserForm.cs",
+              "ToolTip": "F:\\dot_net\\desktopEample\\desktopEample\\UserForm.cs [Design]",
+              "RelativeToolTip": "desktopEample\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:45:05.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "F:\\dot_net\\desktopEample\\desktopEample\\UserForm.cs",
+              "RelativeDocumentMoniker": "desktopEample\\UserForm.cs",
+              "ToolTip": "F:\\dot_net\\desktopEample\\desktopEample\\UserForm.cs",
+              "RelativeToolTip": "desktopEample\\UserForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:42:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "F:\\dot_net\\desktopEample\\desktopEample\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "desktopEample\\UserForm.Designer.cs",
+              "ToolTip": "F:\\dot_net\\desktopEample\\desktopEample\\UserForm.Designer.cs",
+              "RelativeToolTip": "desktopEample\\UserForm.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwEMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:40:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\dot_net\\desktopEample\\desktopEample\\Form1.cs",
+              "RelativeDocumentMoniker": "desktopEample\\Form1.cs",
+              "ToolTip": "F:\\dot_net\\desktopEample\\desktopEample\\Form1.cs [Design]",
+              "RelativeToolTip": "desktopEample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:22:10.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\dot_net\\desktopEample\\desktopEample\\Form1.cs",
+              "RelativeDocumentMoniker": "desktopEample\\Form1.cs",
+              "ToolTip": "F:\\dot_net\\desktopEample\\desktopEample\\Form1.cs",
+              "RelativeToolTip": "desktopEample\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA4wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:27:05.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
