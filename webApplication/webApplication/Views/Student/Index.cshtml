@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html>
+	<head>
+		<title>NISHAN PRADHAN FLUTTER DEVELOPER</title>
+	</head>
+	<body>
+
+    <div class="container my-5">
+        <h2 class="mb-4">Fill the Form</h2>
+        <form asp-action="Display" method="post" class="card p-4 shadow-sm">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">Name:</label>
+                <input asp-for="Name" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Address" class="form-label">Address:</label>
+                <input asp-for="Address" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label asp-for="DateOfBirth" class="form-label">Date of Birth:</label>
+                <input asp-for="DateOfBirth" type="date" class="form-control" />
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+	</body>
+</html>

@@ -1,0 +1,15 @@
+F:\dot_net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.exe
+F:\dot_net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.deps.json
+F:\dot_net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.runtimeconfig.json
+F:\dot_net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.dll
+F:\dot_net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.pdb
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.AssemblyInfoInputs.cache
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.AssemblyInfo.cs
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.csproj.CoreCompileInputs.cache
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.sourcelink.json
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.dll
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\refint\DelegateTest.dll
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.pdb
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.genruntimeconfig.cache
+F:\dot_net\DelegateTest\DelegateTest\obj\Debug\net8.0\ref\DelegateTest.dll

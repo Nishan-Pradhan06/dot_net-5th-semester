@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "D+YMtc6BHm4I6BrBZRXik5duqfsiAMxtyNtuORfu+qw=",
+  "Source": "WebExampleWithEr",
+  "BasePath": "_content/WebExampleWithEr",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebExampleWithEr\\wwwroot",
+      "Source": "WebExampleWithEr",
+      "ContentRoot": "F:\\dot_net\\WebExampleWithEr\\WebExampleWithEr\\wwwroot\\",
+      "BasePath": "_content/WebExampleWithEr",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

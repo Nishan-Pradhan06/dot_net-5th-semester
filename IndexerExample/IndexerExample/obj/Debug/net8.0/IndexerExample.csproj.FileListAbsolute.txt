@@ -1,0 +1,15 @@
+F:\dot_net\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.exe
+F:\dot_net\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.deps.json
+F:\dot_net\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.runtimeconfig.json
+F:\dot_net\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.dll
+F:\dot_net\IndexerExample\IndexerExample\bin\Debug\net8.0\IndexerExample.pdb
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.AssemblyInfoInputs.cache
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.AssemblyInfo.cs
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.csproj.CoreCompileInputs.cache
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.sourcelink.json
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.dll
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\refint\IndexerExample.dll
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.pdb
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\IndexerExample.genruntimeconfig.cache
+F:\dot_net\IndexerExample\IndexerExample\obj\Debug\net8.0\ref\IndexerExample.dll
